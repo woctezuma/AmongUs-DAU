@@ -6,7 +6,7 @@ This repository contains a Jupyter notebook to compute the DAU of [Among Us][wik
 
 ## Usage
 
-Run [`AmongUs-DAU.ipynb`][notebook].
+Run [`AmongUs_DAU.ipynb`][notebook].
 [![Open In Colab][colab-badge]][notebook]
 
 ## References
@@ -20,7 +20,7 @@ Run [`AmongUs-DAU.ipynb`][notebook].
 
 [cover-banner]: <https://github.com/woctezuma/AmongUs-DAU/wiki/img/cover-banner.png>
 
-[notebook]: <https://colab.research.google.com/github/woctezuma/AmongUs-DAU/blob/main/AmongUs-DAU.ipynb>
+[notebook]: <https://colab.research.google.com/github/woctezuma/AmongUs-DAU/blob/main/AmongUs_DAU.ipynb>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
 [twitter]: <https://twitter.com/TheVTran/status/1399440751797293056>
