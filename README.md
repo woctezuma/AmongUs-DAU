@@ -12,7 +12,7 @@ Run [`AmongUs_DAU.ipynb`][notebook].
 ## References
 
 -   [a tweet][twitter] by Victoria Tran, with the actual DAU
--   Gamalytic,[A new way to estimate steam game sales.][gamalytic23-ccu], January 2023
+-   Gamalytic, [A new way to estimate steam game sales][gamalytic23-ccu], January 2023
 
 <!-- Definitions -->
 
