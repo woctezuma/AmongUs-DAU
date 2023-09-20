@@ -13,6 +13,7 @@ Run [`AmongUs_DAU.ipynb`][notebook].
 
 -   [a tweet][twitter] by Victoria Tran, with the actual DAU
 -   Gamalytic, [A new way to estimate steam game sales][gamalytic23-ccu], January 2023
+-   Gamalytic, [How to accurately estimate Steam game sales][gamalytic23-aggregate], May 2023
 
 <!-- Definitions -->
 
@@ -26,3 +27,4 @@ Run [`AmongUs_DAU.ipynb`][notebook].
 
 [twitter]: <https://twitter.com/TheVTran/status/1399440751797293056>
 [gamalytic23-ccu]: <https://gamalytic.com/blog/a-new-way-to-estimate-steam-games-sales>
+[gamalytic23-aggregate]: <https://gamalytic.com/blog/how-to-accurately-estimate-steam-sales>
